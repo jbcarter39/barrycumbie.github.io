@@ -1,5 +1,5 @@
 //my js file that prints the DOM
-$(document).ready(function(){
+document.ready(function(){
 
 
 //create a loop to "print out" all elements in the DOM
