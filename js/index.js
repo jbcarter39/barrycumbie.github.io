@@ -1,7 +1,7 @@
 //my js file that prints the DOM
 
 
-//$(document).ready(function(){
+document.addEventListener("DOMContentLoaded", function(event) {
 
 
 //create a loop to "print out" all elements in the DOM
@@ -18,4 +18,4 @@ while(allDOMElements = ni.nextNode()) {
 }
 
 
-// }); end of the doc ready f/n
+ }); 
